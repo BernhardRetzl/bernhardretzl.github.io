@@ -34,13 +34,8 @@ dedicated to the analysis of protein families — an ongoing project.
 * 2019-2022 | **PhD, Molecular signal transduction**, [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), Austria
 * 2016-2019 | **M.Sc. Chemistry**, 
 
-* 2023-2025 | <b>Student Researcher</b>,
-	                <a href="https://deepmind.google/">Google DeepMind</a>
+* 2019-2022 | <b>PhD, Molecular signal transduction</b>,
+	                <a href="https://www.meduniwien.ac.at/web/en/">Medical University of Vienna</a>, Austria
 
-* 2021-2025 | <b>PhD, Machine Learning</b>,
-	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
-	                <a href="https://www.tu.berlin/en/">TU Berlin</a>, Germany
+* 2016-2019 | <b>M.Sc. Chemistry</b>
 
-* 2021-2024 | <b>Guest researcher, Computational Cognitive Neuroscience</b>
-	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
-	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Insitute for Human Cognitive and Brain Sciences</a>, Germany
