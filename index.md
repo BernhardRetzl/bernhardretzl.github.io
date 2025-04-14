@@ -28,3 +28,9 @@ using Python, R, Git, GitLab, Docker, SLURM, Unix, and Google Cloud Platform (GC
 I am an enthusiastic bioinformatician and data scientist, actively developing novel algorithms to advance biological
 data analysis. I am currently building my own website [www.protein-pattern.com](https://www.protein-pattern.com)
 dedicated to the analysis of protein families — an ongoing project.
+
+# Academic Background
+
+* 2019-2022 | **PhD, Molecular signal transduction**, [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), Austria
+
+* 2016-2019 | **M.Sc. Chemistry**, 
