@@ -31,11 +31,26 @@ dedicated to the analysis of protein families — an ongoing project.
 
 # Academic Background
 
-* 2019-2022 | **PhD, Molecular signal transduction**, [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), Austria
-* 2016-2019 | **M.Sc. Chemistry**, 
+* 2023-2024 | <b>Laboratory manager bioanalytics</b>,
+	                <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, Austria
 
 * 2019-2022 | <b>PhD, Molecular signal transduction</b>,
 	                <a href="https://www.meduniwien.ac.at/web/en/">Medical University of Vienna</a>, Austria
 
-* 2016-2019 | <b>M.Sc. Chemistry</b>
+* 2016-2019 | <b>M.Sc. Chemistry</b>,
+	                <a href="https://www.univie.ac.at/en/">University of Vienna</a>, Austria
+
+* 2011-2016 | <b>B.Sc. Chemistry</b>,
+	                <a href="https://www.univie.ac.at/en/">University of Vienna</a>, Austria
+
+# Industry Experience
+
+* 2022-2023 | <b>Bioinformatician, Lexogen</b>,
+	                <a href="https://www.lexogen.com/">University of Vienna</a>, Austria
+
+# Links
+* <a href="https://scholar.google.com/citations?hl=en&user=9HiFPRwAAAAJ">Scholar</a>
+* <a href="https://github.com/BernhardRetzl">GitHub</a>
+* <a href="https://www.linkedin.com/in/bernhard-retzl/">LinkedIn</a>
+
 
