@@ -32,5 +32,4 @@ dedicated to the analysis of protein families — an ongoing project.
 # Academic Background
 
 * 2019-2022 | **PhD, Molecular signal transduction**, [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), Austria
-
 * 2016-2019 | **M.Sc. Chemistry**, 
