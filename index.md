@@ -63,12 +63,15 @@ dedicated to the analysis of protein families — an ongoing project.
 ## News
 ### 2023
 * <b>Austrian Proteomics and Metabolomics Research Symposium 2023, Innsbruck, Austria</b>
+
 ### 2022
 * <b> 17th YSA PhD Symposium 2022, Vienna, Austria</b>  Poster presentation: "In silico driven discovery of ligands for the oxytocin receptor"
 * <b> CePP Retreat, Hollabrunn, Austria</b>  Oral talk: "In-silico driven discovery of ligands for the oxytocin receptor"
+
 ### 2021
 * <b> 10th Austrian Peptide Symposium, Vienna, Austria</b>   Poster presentation: “Plant-derived peptides as ligand of the oxytocin receptor for the treatment of inflammatory bowel disease”
 * <b> CePP Retreat, Hollabrunn, Austria</b>  Poster presentation: “Plant-derived peptides as ligand of the oxytocin receptor for the treatment of inflammatory bowel disease”
+
 ### 2019
 * <b>  16th ANA - 25th APHAR Meeting, Innsbruck, Austria</b>  Poster presentation: “Isolation and characterization of a knotted trypsin inhibitor from beetroot”
 * <b>   EUROPIN Summer School on Drug Design, Vienna, Austria</b>
