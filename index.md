@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENNQY4RWS8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ENNQY4RWS8');
+</script>
+
+
 # Research Profile
 
 I hold a PhD from the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), where I conducted my
