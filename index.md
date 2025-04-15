@@ -32,25 +32,43 @@ dedicated to the analysis of protein families — an ongoing project.
 # Academic Background
 
 * 2023-2024 | <b>Laboratory manager bioanalytics</b>,
+					<a href="https://www.tuwien.at/en/tch/bioanalytics">Proteomics Pirates group</a>,
 	                <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, Austria
 
 * 2019-2022 | <b>PhD, Molecular signal transduction</b>,
-	                <a href="https://www.meduniwien.ac.at/web/en/">Medical University of Vienna</a>, Austria
+                    <a href="https://www.gruber-lab.com/">Gruber lab</a>,
+                    <a href="https://www.meduniwien.ac.at/web/en/">Medical University of Vienna</a>, Austria - 
+					Thesis: <a href="https://repositorium.meduniwien.ac.at/obvumwhs/content/titleinfo/11491754/full.pdf">
+                    Peptide libraries as starting point for drug discovery of GPCRs</a>
 
 * 2016-2019 | <b>M.Sc. Chemistry</b>,
-	                <a href="https://www.univie.ac.at/en/">University of Vienna</a>, Austria
+	                <a href="https://www.univie.ac.at/en/">University of Vienna</a>, Austria -
+					Thesis: <a href="https://utheses.univie.ac.at/detail/49513/">
+                    Analysis of cysteine-rich peptides from plants using mass spectrometry</a>
 
 * 2011-2016 | <b>B.Sc. Chemistry</b>,
 	                <a href="https://www.univie.ac.at/en/">University of Vienna</a>, Austria
 
 # Industry Experience
 
-* 2022-2023 | <b>Bioinformatician, Lexogen</b>,
-	                <a href="https://www.lexogen.com/">University of Vienna</a>, Austria
+* 2022-2023 | <b>Bioinformatician</b>,
+	                <a href="https://www.lexogen.com/">Lexogen</a>, Austria
 
-# Links
+## Links
 * <a href="https://scholar.google.com/citations?hl=en&user=9HiFPRwAAAAJ">Scholar</a>
 * <a href="https://github.com/BernhardRetzl">GitHub</a>
 * <a href="https://www.linkedin.com/in/bernhard-retzl/">LinkedIn</a>
+* <a href="https://www.protein-pattern.com/">www.protein-pattern.com</a>
 
-
+## News
+### 2023
+* <b>Austrian Proteomics and Metabolomics Research Symposium 2023, Innsbruck, Austria</b>
+### 2022
+* <b> 17th YSA PhD Symposium 2022, Vienna, Austria</b>  Poster presentation: "In silico driven discovery of ligands for the oxytocin receptor"
+* <b> CePP Retreat, Hollabrunn, Austria</b>  Oral talk: "In-silico driven discovery of ligands for the oxytocin receptor"
+### 2021
+* <b> 10th Austrian Peptide Symposium, Vienna, Austria</b>   Poster presentation: “Plant-derived peptides as ligand of the oxytocin receptor for the treatment of inflammatory bowel disease”
+* <b> CePP Retreat, Hollabrunn, Austria</b>  Poster presentation: “Plant-derived peptides as ligand of the oxytocin receptor for the treatment of inflammatory bowel disease”
+### 2019
+* <b>  16th ANA - 25th APHAR Meeting, Innsbruck, Austria</b>  Poster presentation: “Isolation and characterization of a knotted trypsin inhibitor from beetroot”
+* <b>   EUROPIN Summer School on Drug Design, Vienna, Austria</b>
