@@ -36,8 +36,8 @@ specializing in RNA sequencing. During this time, I gained valuable experience i
 using Python, R, Git, GitLab, Docker, SLURM, Unix, and Google Cloud Platform (GCP).
 
 I am an enthusiastic bioinformatician and data scientist, actively developing novel algorithms to advance biological
-data analysis. I am currently building my own website [www.protein-pattern.com](https://www.protein-pattern.com)
-dedicated to the analysis of protein families — an ongoing project.
+data analysis. I am currently building my own website <a href="https://www.retzl.me/gpcr-cluster-explorer/">[www.retzl.me/gpcr-cluster-explorer/](https://www.retzl.me/gpcr-cluster-explorer/)</a>
+dedicated to the analysis of protein families.
 
 # Academic Background
 
@@ -68,7 +68,7 @@ dedicated to the analysis of protein families — an ongoing project.
 * <a href="https://scholar.google.com/citations?hl=en&user=9HiFPRwAAAAJ">Scholar</a>
 * <a href="https://github.com/BernhardRetzl">GitHub</a>
 * <a href="https://www.linkedin.com/in/bernhard-retzl/">LinkedIn</a>
-* <a href="https://www.protein-pattern.com/">www.protein-pattern.com</a>
+* <a href="https://www.retzl.me/gpcr-cluster-explorer/">[www.retzl.me/gpcr-cluster-explorer/](https://www.retzl.me/gpcr-cluster-explorer/)</a>
 
 ## News
 ### 2023
