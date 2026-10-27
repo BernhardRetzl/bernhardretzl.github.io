@@ -41,8 +41,8 @@ dedicated to the analysis of protein families.
 
 # Academic Background
 
-* 2023-2024 | <b>Data Scientist</b>,
-					Developed <a href="https://www.retzl.me/gpcr-cluster-explorer/">GPCR cluster explorer</a>,
+* 2025- | <b>Data Scientist</b>,
+					Developed <a href="https://www.retzl.me/gpcr-cluster-explorer/">GPCR cluster explorer</a>
 
 * 2023-2024 | <b>Laboratory manager bioanalytics</b>,
 					<a href="https://www.tuwien.at/en/tch/bioanalytics">Proteomics Pirates group</a>,
